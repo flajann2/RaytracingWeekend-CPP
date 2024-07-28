@@ -27,7 +27,7 @@ endif()
 # Uncoment for debug builds
 set(CMAKE_BUILD_TYPE Debug)
 
-set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD 26)
 set(CMAKE_EXPERIMENTAL_CXX_MODULE_DYNDEP 1)
 
 add_library(RayTracingLib)
