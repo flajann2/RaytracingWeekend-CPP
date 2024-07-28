@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.ixx.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "RaytracingLib:color",
+          "source-path": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/color.ixx"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "RaytracingLib:algebra"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

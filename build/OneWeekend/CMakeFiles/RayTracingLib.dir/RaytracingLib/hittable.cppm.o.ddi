@@ -1,0 +1,24 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "RaytracingLib:hittable",
+          "source-path": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/hittable.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "RaytracingLib:algebra"
+        },
+        {
+          "logical-name": "RaytracingLib:ray"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,27 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.ixx.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "RaytracingLib:material",
+          "source-path": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/material.ixx"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "RaytracingLib:algebra"
+        },
+        {
+          "logical-name": "RaytracingLib:ray"
+        },
+        {
+          "logical-name": "RaytracingLib:hittable"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

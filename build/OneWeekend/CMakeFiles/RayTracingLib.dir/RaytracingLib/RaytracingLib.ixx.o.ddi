@@ -1,0 +1,45 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.ixx.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "RaytracingLib",
+          "source-path": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/RaytracingLib.ixx"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "RaytracingLib:algebra"
+        },
+        {
+          "logical-name": "RaytracingLib:camera"
+        },
+        {
+          "logical-name": "RaytracingLib:color"
+        },
+        {
+          "logical-name": "RaytracingLib:hittable"
+        },
+        {
+          "logical-name": "RaytracingLib:ray"
+        },
+        {
+          "logical-name": "RaytracingLib:sphere"
+        },
+        {
+          "logical-name": "RaytracingLib:images"
+        },
+        {
+          "logical-name": "RaytracingLib:material"
+        },
+        {
+          "logical-name": "RaytracingLib:scene"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

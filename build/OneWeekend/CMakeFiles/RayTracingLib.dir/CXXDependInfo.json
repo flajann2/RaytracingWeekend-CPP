@@ -1,0 +1,120 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : 
+	{
+		"OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "RaytracingLib",
+			"source" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/RaytracingLib.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "RaytracingLib",
+			"source" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/algebra.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "RaytracingLib",
+			"source" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/camera.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "RaytracingLib",
+			"source" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/color.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "RaytracingLib",
+			"source" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/hittable.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "RaytracingLib",
+			"source" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/images.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "RaytracingLib",
+			"source" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/material.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "RaytracingLib",
+			"source" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/ray.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "RaytracingLib",
+			"source" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/scene.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "RaytracingLib",
+			"source" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/sphere.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"dir-cur-bld" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build/OneWeekend",
+	"dir-cur-src" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend",
+	"dir-top-bld" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+	"dir-top-src" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build/OneWeekend/CMakeFiles/RayTracingLib.dir"
+}

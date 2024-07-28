@@ -1,0 +1,20 @@
+# ninja log v6
+12	147	1722200284936302417	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.ixx.o.ddi	a28290abbdb7de3a
+13	151	1722200284936302417	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.ixx.o.ddi	9ab97284ed56392b
+11	522	1722200284936302417	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.ixx.o.ddi	66cc4f05c9f03f4c
+6	716	1722200284929635738	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.ixx.o.ddi	9b93055609f69c45
+6	530	1722200284929635738	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.ixx.o.ddi	3ca570a404aa2151
+5	760	1722200284929635738	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.ixx.o.ddi	7b9326188aca8fff
+152	774	1722200285076302684	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.ixx.o.ddi	86c6941b256299a8
+147	775	1722200285072969344	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.ixx.o.ddi	a3bc70055ab0e095
+8	784	1722200284932969078	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.ixx.o.ddi	cadcd1563fbb3966
+6	461	1722200326609714982	OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o.ddi	e1349cd7a78f6d85
+5	88	1722200677510387070	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o.ddi	1f3b71e80ab7cc18
+8	112	1722200677510387070	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o.ddi	ee71e631255c3c40
+4	295	1722200677507053731	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o.ddi	6698abadbd8711ec
+4	299	1722200677507053731	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o.ddi	7b295ec2c58b61a9
+5	303	1722200677510387070	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o.ddi	c26a3d78b7b82b83
+4	394	1722200677507053731	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o.ddi	5a8beda51e7533c5
+3	404	1722200677507053731	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o.ddi	30665b462b66b56e
+88	485	1722200677593720564	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o.ddi	ea60ac4920bc1c93
+112	508	1722200677617053942	OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o.ddi	8a302bcc62a301ab

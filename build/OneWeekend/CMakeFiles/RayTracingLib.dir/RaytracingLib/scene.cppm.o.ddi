@@ -1,0 +1,33 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "RaytracingLib:scene",
+          "source-path": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/scene.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "RaytracingLib:algebra"
+        },
+        {
+          "logical-name": "RaytracingLib:hittable"
+        },
+        {
+          "logical-name": "RaytracingLib:material"
+        },
+        {
+          "logical-name": "RaytracingLib:sphere"
+        },
+        {
+          "logical-name": "RaytracingLib:ray"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

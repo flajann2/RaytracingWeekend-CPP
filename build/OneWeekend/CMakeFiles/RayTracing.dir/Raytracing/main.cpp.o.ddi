@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o",
+      "requires": [
+        {
+          "logical-name": "RaytracingLib"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

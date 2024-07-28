@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+  "command": "/usr/bin/clang++ -g -std=c++23 -Wall -Wextra -Wpedantic @OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o.modmap -o OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o -c /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/algebra.cppm",
+  "file": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/algebra.cppm",
+  "output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o"
+},
+{
+  "directory": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+  "command": "/usr/bin/clang++ -g -std=c++23 -Wall -Wextra -Wpedantic @OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o.modmap -o OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o -c /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/camera.cppm",
+  "file": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/camera.cppm",
+  "output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o"
+},
+{
+  "directory": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+  "command": "/usr/bin/clang++ -g -std=c++23 -Wall -Wextra -Wpedantic @OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o.modmap -o OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o -c /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/color.cppm",
+  "file": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/color.cppm",
+  "output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o"
+},
+{
+  "directory": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+  "command": "/usr/bin/clang++ -g -std=c++23 -Wall -Wextra -Wpedantic @OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o.modmap -o OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o -c /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/hittable.cppm",
+  "file": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/hittable.cppm",
+  "output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o"
+},
+{
+  "directory": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+  "command": "/usr/bin/clang++ -g -std=c++23 -Wall -Wextra -Wpedantic @OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o.modmap -o OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o -c /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/images.cppm",
+  "file": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/images.cppm",
+  "output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o"
+},
+{
+  "directory": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+  "command": "/usr/bin/clang++ -g -std=c++23 -Wall -Wextra -Wpedantic @OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o.modmap -o OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o -c /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/material.cppm",
+  "file": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/material.cppm",
+  "output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o"
+},
+{
+  "directory": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+  "command": "/usr/bin/clang++ -g -std=c++23 -Wall -Wextra -Wpedantic @OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o.modmap -o OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o -c /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/ray.cppm",
+  "file": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/ray.cppm",
+  "output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o"
+},
+{
+  "directory": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+  "command": "/usr/bin/clang++ -g -std=c++23 -Wall -Wextra -Wpedantic @OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o.modmap -o OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o -c /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/RaytracingLib.cppm",
+  "file": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/RaytracingLib.cppm",
+  "output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o"
+},
+{
+  "directory": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+  "command": "/usr/bin/clang++ -g -std=c++23 -Wall -Wextra -Wpedantic @OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o.modmap -o OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o -c /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/scene.cppm",
+  "file": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/scene.cppm",
+  "output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o"
+},
+{
+  "directory": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+  "command": "/usr/bin/clang++ -g -std=c++23 -Wall -Wextra -Wpedantic @OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o.modmap -o OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o -c /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/sphere.cppm",
+  "file": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/sphere.cppm",
+  "output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o"
+},
+{
+  "directory": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+  "command": "/usr/bin/clang++ -g -std=c++23 -Wall -Wextra -Wpedantic @OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o.modmap -o OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o -c /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/Raytracing/main.cpp",
+  "file": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/Raytracing/main.cpp",
+  "output": "OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o"
+}
+]

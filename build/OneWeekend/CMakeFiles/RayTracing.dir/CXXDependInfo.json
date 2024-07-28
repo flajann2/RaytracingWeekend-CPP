@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build/OneWeekend",
+	"dir-cur-src" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend",
+	"dir-top-bld" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build",
+	"dir-top-src" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build/OneWeekend/CMakeFiles/RayTracingLib.dir"
+	],
+	"module-dir" : "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/build/OneWeekend/CMakeFiles/RayTracing.dir"
+}

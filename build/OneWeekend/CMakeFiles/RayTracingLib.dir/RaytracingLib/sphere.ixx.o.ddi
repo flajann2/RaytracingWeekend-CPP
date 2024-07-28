@@ -1,0 +1,27 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.ixx.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "RaytracingLib:sphere",
+          "source-path": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/sphere.ixx"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "RaytracingLib:algebra"
+        },
+        {
+          "logical-name": "RaytracingLib:hittable"
+        },
+        {
+          "logical-name": "RaytracingLib:ray"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

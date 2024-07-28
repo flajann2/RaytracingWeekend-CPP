@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "RaytracingLib:algebra",
+          "source-path": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/algebra.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}
