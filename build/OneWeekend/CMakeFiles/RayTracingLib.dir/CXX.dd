@@ -1,0 +1,31 @@
+ninja_dyndep_version = 1.0
+build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm: dyndep
+  restat = 1
+
+build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-camera.pcm: dyndep | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-ray.pcm
+  restat = 1
+
+build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-color.pcm: dyndep | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm
+  restat = 1
+
+build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-hittable.pcm: dyndep | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-ray.pcm
+  restat = 1
+
+build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-images.pcm: dyndep | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm
+  restat = 1
+
+build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-material.pcm: dyndep | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-ray.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-hittable.pcm
+  restat = 1
+
+build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-ray.pcm: dyndep | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm
+  restat = 1
+
+build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib.pcm: dyndep | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-camera.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-color.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-hittable.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-ray.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-sphere.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-images.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-material.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-scene.pcm
+  restat = 1
+
+build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-scene.pcm: dyndep | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-hittable.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-material.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-sphere.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-ray.pcm
+  restat = 1
+
+build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-sphere.pcm: dyndep | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-hittable.pcm OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-ray.pcm
+  restat = 1
+

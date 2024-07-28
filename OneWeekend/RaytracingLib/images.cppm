@@ -11,7 +11,7 @@ module;
 #endif
 
 #define STB_IMAGE_WRITE_IMPLEMENTATION
-#include "stb_image_write.h"
+#include "stb/stb_image_write.h"
 
 #ifdef __clang__
 #pragma clang diagnostic pop
@@ -22,6 +22,7 @@ module;
 #include <span>
 #include <cstddef>
 #include <stdexcept>
+#include <cstdint>
 
 export module RaytracingLib:images;
 

@@ -1,0 +1,4 @@
+-x c++-module
+-fmodule-output=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-hittable.pcm
+-fmodule-file=RaytracingLib:algebra=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm
+-fmodule-file=RaytracingLib:ray=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-ray.pcm

@@ -1,0 +1,113 @@
+{
+	"modules" : {},
+	"references" : 
+	{
+		"RaytracingLib" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib.pcm"
+		},
+		"RaytracingLib:algebra" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm"
+		},
+		"RaytracingLib:camera" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-camera.pcm"
+		},
+		"RaytracingLib:color" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-color.pcm"
+		},
+		"RaytracingLib:hittable" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-hittable.pcm"
+		},
+		"RaytracingLib:images" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-images.pcm"
+		},
+		"RaytracingLib:material" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-material.pcm"
+		},
+		"RaytracingLib:ray" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-ray.pcm"
+		},
+		"RaytracingLib:scene" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-scene.pcm"
+		},
+		"RaytracingLib:sphere" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-sphere.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"RaytracingLib" : 
+		[
+			"RaytracingLib:algebra",
+			"RaytracingLib:camera",
+			"RaytracingLib:color",
+			"RaytracingLib:hittable",
+			"RaytracingLib:images",
+			"RaytracingLib:material",
+			"RaytracingLib:ray",
+			"RaytracingLib:scene",
+			"RaytracingLib:sphere"
+		],
+		"RaytracingLib:camera" : 
+		[
+			"RaytracingLib:algebra",
+			"RaytracingLib:ray"
+		],
+		"RaytracingLib:color" : 
+		[
+			"RaytracingLib:algebra"
+		],
+		"RaytracingLib:hittable" : 
+		[
+			"RaytracingLib:algebra",
+			"RaytracingLib:ray"
+		],
+		"RaytracingLib:images" : 
+		[
+			"RaytracingLib:algebra"
+		],
+		"RaytracingLib:material" : 
+		[
+			"RaytracingLib:algebra",
+			"RaytracingLib:hittable",
+			"RaytracingLib:ray"
+		],
+		"RaytracingLib:ray" : 
+		[
+			"RaytracingLib:algebra"
+		],
+		"RaytracingLib:scene" : 
+		[
+			"RaytracingLib:algebra",
+			"RaytracingLib:hittable",
+			"RaytracingLib:material",
+			"RaytracingLib:ray",
+			"RaytracingLib:sphere"
+		],
+		"RaytracingLib:sphere" : 
+		[
+			"RaytracingLib:algebra",
+			"RaytracingLib:hittable",
+			"RaytracingLib:ray"
+		]
+	}
+}

@@ -1,0 +1,10 @@
+-fmodule-file=RaytracingLib=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib.pcm
+-fmodule-file=RaytracingLib:algebra=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-algebra.pcm
+-fmodule-file=RaytracingLib:camera=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-camera.pcm
+-fmodule-file=RaytracingLib:color=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-color.pcm
+-fmodule-file=RaytracingLib:hittable=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-hittable.pcm
+-fmodule-file=RaytracingLib:images=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-images.pcm
+-fmodule-file=RaytracingLib:material=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-material.pcm
+-fmodule-file=RaytracingLib:ray=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-ray.pcm
+-fmodule-file=RaytracingLib:scene=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-scene.pcm
+-fmodule-file=RaytracingLib:sphere=OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib-sphere.pcm

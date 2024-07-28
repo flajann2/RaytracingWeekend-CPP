@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "RaytracingLib:images",
+          "source-path": "/development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/images.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "RaytracingLib:algebra"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}
