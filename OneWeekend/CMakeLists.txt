@@ -8,7 +8,6 @@
 # https://github.com/Kitware/CMake/commit/7b05724ac81c3262ce8aded5578326ecec327ae4
 
 cmake_minimum_required(VERSION 3.30)
-#project(std_module_example CXX)
 
 set(CMAKE_EXPERIMENTAL_CXX_MODULE_CMAKE_API "2182bf5c-ef0d-489a-91da-49dbc3090d2a")
 

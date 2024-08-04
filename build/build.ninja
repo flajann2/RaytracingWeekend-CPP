@@ -76,14 +76,14 @@ build cmake_object_order_depends_target_RayTracingLib: phony || .
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o.ddi: CXX_SCAN__RayTracingLib_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/algebra.cppm || cmake_object_order_depends_target_RayTracingLib
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o.ddi
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJ_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o
   PREPROCESSED_OUTPUT_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o.ddi.i
 
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o: CXX_COMPILER__RayTracingLib_scanned_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/algebra.cppm | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o.modmap || cmake_object_order_depends_target_RayTracingLib OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o.d
   DYNDEP_MODULE_MAP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o.modmap
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJECT_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir
   OBJECT_FILE_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib
   dyndep = OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
@@ -91,14 +91,14 @@ build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/algebra.cppm.o: CXX_
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o.ddi: CXX_SCAN__RayTracingLib_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/camera.cppm || cmake_object_order_depends_target_RayTracingLib
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o.ddi
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJ_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o
   PREPROCESSED_OUTPUT_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o.ddi.i
 
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o: CXX_COMPILER__RayTracingLib_scanned_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/camera.cppm | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o.modmap || cmake_object_order_depends_target_RayTracingLib OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o.d
   DYNDEP_MODULE_MAP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o.modmap
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJECT_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir
   OBJECT_FILE_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib
   dyndep = OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
@@ -106,14 +106,14 @@ build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/camera.cppm.o: CXX_C
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o.ddi: CXX_SCAN__RayTracingLib_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/color.cppm || cmake_object_order_depends_target_RayTracingLib
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o.ddi
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJ_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o
   PREPROCESSED_OUTPUT_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o.ddi.i
 
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o: CXX_COMPILER__RayTracingLib_scanned_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/color.cppm | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o.modmap || cmake_object_order_depends_target_RayTracingLib OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o.d
   DYNDEP_MODULE_MAP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o.modmap
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJECT_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir
   OBJECT_FILE_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib
   dyndep = OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
@@ -121,14 +121,14 @@ build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/color.cppm.o: CXX_CO
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o.ddi: CXX_SCAN__RayTracingLib_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/hittable.cppm || cmake_object_order_depends_target_RayTracingLib
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o.ddi
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJ_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o
   PREPROCESSED_OUTPUT_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o.ddi.i
 
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o: CXX_COMPILER__RayTracingLib_scanned_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/hittable.cppm | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o.modmap || cmake_object_order_depends_target_RayTracingLib OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o.d
   DYNDEP_MODULE_MAP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o.modmap
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJECT_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir
   OBJECT_FILE_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib
   dyndep = OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
@@ -136,14 +136,14 @@ build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/hittable.cppm.o: CXX
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o.ddi: CXX_SCAN__RayTracingLib_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/images.cppm || cmake_object_order_depends_target_RayTracingLib
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o.ddi
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJ_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o
   PREPROCESSED_OUTPUT_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o.ddi.i
 
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o: CXX_COMPILER__RayTracingLib_scanned_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/images.cppm | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o.modmap || cmake_object_order_depends_target_RayTracingLib OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o.d
   DYNDEP_MODULE_MAP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o.modmap
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJECT_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir
   OBJECT_FILE_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib
   dyndep = OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
@@ -151,14 +151,14 @@ build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/images.cppm.o: CXX_C
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o.ddi: CXX_SCAN__RayTracingLib_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/material.cppm || cmake_object_order_depends_target_RayTracingLib
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o.ddi
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJ_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o
   PREPROCESSED_OUTPUT_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o.ddi.i
 
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o: CXX_COMPILER__RayTracingLib_scanned_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/material.cppm | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o.modmap || cmake_object_order_depends_target_RayTracingLib OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o.d
   DYNDEP_MODULE_MAP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o.modmap
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJECT_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir
   OBJECT_FILE_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib
   dyndep = OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
@@ -166,14 +166,14 @@ build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/material.cppm.o: CXX
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o.ddi: CXX_SCAN__RayTracingLib_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/ray.cppm || cmake_object_order_depends_target_RayTracingLib
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o.ddi
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJ_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o
   PREPROCESSED_OUTPUT_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o.ddi.i
 
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o: CXX_COMPILER__RayTracingLib_scanned_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/ray.cppm | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o.modmap || cmake_object_order_depends_target_RayTracingLib OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o.d
   DYNDEP_MODULE_MAP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o.modmap
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJECT_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir
   OBJECT_FILE_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib
   dyndep = OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
@@ -181,14 +181,14 @@ build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/ray.cppm.o: CXX_COMP
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o.ddi: CXX_SCAN__RayTracingLib_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/RaytracingLib.cppm || cmake_object_order_depends_target_RayTracingLib
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o.ddi
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJ_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o
   PREPROCESSED_OUTPUT_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o.ddi.i
 
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o: CXX_COMPILER__RayTracingLib_scanned_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/RaytracingLib.cppm | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o.modmap || cmake_object_order_depends_target_RayTracingLib OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o.d
   DYNDEP_MODULE_MAP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o.modmap
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJECT_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir
   OBJECT_FILE_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib
   dyndep = OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
@@ -196,14 +196,14 @@ build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/RaytracingLib.cppm.o
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o.ddi: CXX_SCAN__RayTracingLib_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/scene.cppm || cmake_object_order_depends_target_RayTracingLib
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o.ddi
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJ_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o
   PREPROCESSED_OUTPUT_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o.ddi.i
 
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o: CXX_COMPILER__RayTracingLib_scanned_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/scene.cppm | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o.modmap || cmake_object_order_depends_target_RayTracingLib OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o.d
   DYNDEP_MODULE_MAP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o.modmap
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJECT_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir
   OBJECT_FILE_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib
   dyndep = OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
@@ -211,14 +211,14 @@ build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/scene.cppm.o: CXX_CO
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o.ddi: CXX_SCAN__RayTracingLib_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/sphere.cppm || cmake_object_order_depends_target_RayTracingLib
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o.ddi
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJ_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o
   PREPROCESSED_OUTPUT_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o.ddi.i
 
 build OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o: CXX_COMPILER__RayTracingLib_scanned_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/RaytracingLib/sphere.cppm | OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o.modmap || cmake_object_order_depends_target_RayTracingLib OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
   DEP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o.d
   DYNDEP_MODULE_MAP_FILE = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib/sphere.cppm.o.modmap
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJECT_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir
   OBJECT_FILE_DIR = OneWeekend/CMakeFiles/RayTracingLib.dir/RaytracingLib
   dyndep = OneWeekend/CMakeFiles/RayTracingLib.dir/CXX.dd
@@ -253,14 +253,14 @@ build cmake_object_order_depends_target_RayTracing: phony || cmake_object_order_
 build OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o.ddi: CXX_SCAN__RayTracing_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/Raytracing/main.cpp || cmake_object_order_depends_target_RayTracing
   DEP_FILE = OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o.ddi
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJ_FILE = OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o
   PREPROCESSED_OUTPUT_FILE = OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o.ddi.i
 
 build OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o: CXX_COMPILER__RayTracing_scanned_Debug /development/cpp_proj/third/module_examples/RaytracingWeekend-CPP/OneWeekend/Raytracing/main.cpp | OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o.modmap || cmake_object_order_depends_target_RayTracing OneWeekend/CMakeFiles/RayTracing.dir/CXX.dd
   DEP_FILE = OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o.d
   DYNDEP_MODULE_MAP_FILE = OneWeekend/CMakeFiles/RayTracing.dir/Raytracing/main.cpp.o.modmap
-  FLAGS = -g -std=c++26 -Wall -Wextra -Wpedantic
+  FLAGS = -g -std=c++26 -std=c++26 -fmodules -Wall -Wextra -Wpedantic
   OBJECT_DIR = OneWeekend/CMakeFiles/RayTracing.dir
   OBJECT_FILE_DIR = OneWeekend/CMakeFiles/RayTracing.dir/Raytracing
   dyndep = OneWeekend/CMakeFiles/RayTracing.dir/CXX.dd
