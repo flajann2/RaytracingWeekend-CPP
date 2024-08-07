@@ -15,12 +15,8 @@ set(CMAKE_EXPERIMENTAL_CXX_MODULE_CMAKE_API "2182bf5c-ef0d-489a-91da-49dbc3090d2
 # with extensions right now and it is not required for any other compiler
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
-  include(gcc_modules.cmake)
-elseif (CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
 # Ensure some code quality is taken care of.
-  add_compile_options(-Wall -Wextra -Wpedantic)
-endif()
+add_compile_options(-Wall -Wextra -Wpedantic)
 
 
 # Uncoment for debug builds

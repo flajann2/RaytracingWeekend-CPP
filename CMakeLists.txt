@@ -17,14 +17,16 @@ set(CXX_MODULE_STD ON)
 #set(CMAKE_CXX_MODULE_STD ON)
 
 ### 
-### set(CMAKE_EXPERIMENTAL_CXX_MODULE_DYNDEP 1)
-### set(CMAKE_EXPERIMENTAL_CXX_MODULE_CMAKE_API "2182bf5c-ef0d-489a-91da-49dbc3090d2a")
+set(CMAKE_EXPERIMENTAL_CXX_MODULE_DYNDEP 1)
+set(CMAKE_EXPERIMENTAL_CXX_MODULE_CMAKE_API "2182bf5c-ef0d-489a-91da-49dbc3090d2a")
+
 ### 
 set(CMAKE_CXX_STANDARD 26)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_EXPERIMENTAL_CXX_IMPORT_STD "0e5b6991-d74f-4b3d-a41c-cf096e0b2508")
 ### 
 add_compile_options(-std=c++26 -fmodules)
+#add_compile_options(-nostdinc++)
 #add_compile_options(-stdlib=libc++)
 ### 
 ### # Default to C++ extensions being off. Clang's modules support have trouble
