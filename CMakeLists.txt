@@ -9,6 +9,7 @@ set(CMAKE_CXX_COMPILER clang++)
 set(CMAKE_CXX_SCAN_FOR_MODULES ON)
 set(CXX_MODULE_STD ON)
 ### 
+set(CMAKE_BUILD_TYPE Debug)
 
 # For the directives commented out with one #,
 # it causes the build to fail.
@@ -26,9 +27,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_EXPERIMENTAL_CXX_IMPORT_STD "0e5b6991-d74f-4b3d-a41c-cf096e0b2508")
 ### 
 add_compile_options(-std=c++26 -fmodules)
-#add_compile_options(-nostdinc++)
-#add_compile_options(-stdlib=libc++)
-### 
+add_compile_options(-Wall -Wextra -Wpedantic)
+ 
 ### # Default to C++ extensions being off. Clang's modules support have trouble
 ### # with extensions right now and it is not required for any other compiler
 set(CMAKE_CXX_EXTENSIONS OFF)

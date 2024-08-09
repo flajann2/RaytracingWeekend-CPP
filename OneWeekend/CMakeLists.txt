@@ -7,23 +7,6 @@
 # https://github.com/llvm/llvm-project/issues/62707
 # https://github.com/Kitware/CMake/commit/7b05724ac81c3262ce8aded5578326ecec327ae4
 
-cmake_minimum_required(VERSION 3.30)
-
-set(CMAKE_EXPERIMENTAL_CXX_MODULE_CMAKE_API "2182bf5c-ef0d-489a-91da-49dbc3090d2a")
-
-# Default to C++ extensions being off. Clang's modules support have trouble
-# with extensions right now and it is not required for any other compiler
-set(CMAKE_CXX_EXTENSIONS OFF)
-
-# Ensure some code quality is taken care of.
-add_compile_options(-Wall -Wextra -Wpedantic)
-
-
-# Uncoment for debug builds
-set(CMAKE_BUILD_TYPE Debug)
-
-set(CMAKE_CXX_STANDARD 26)
-set(CMAKE_EXPERIMENTAL_CXX_MODULE_DYNDEP 1)
 
 add_library(RayTracingLib)
 target_sources(RayTracingLib
